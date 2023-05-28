@@ -1,0 +1,122 @@
+[
+    {
+        "id": "01",
+        "question": "Apa yang dimaksud dengan istilah 'Hijrah' dalam literatur Islam?",
+        "options": [
+        "Perang Sabil",
+        "Berpindah",
+        "Puasa",
+        "Shalat"
+        ],
+        "answer": "Berpindah",
+        "reason": "Hijrah adalah perpindahan dari suatu tempat menuju ke tempat yang lebih baik, migrasi Nabi Muhammad SAW dari Mekah ke Madinah pada tahun 622 Masehi. Peristiwa ini memiliki makna penting dalam sejarah Islam."
+        },
+        {
+        "id": "02",
+        "question": "Siapakah penulis kitab tafsir terkenal 'Tafsir al-Jalalain'?",
+        "options": [
+        "Ibnu Kathir",
+        "Ibnu Hajar al-Asqalani",
+        "Al-Qurtubi",
+        "Jalaluddin al-Mahalli dan Jalaluddin as-Suyuti"
+        ],
+        "answer": "Jalaluddin al-Mahalli dan Jalaluddin as-Suyuti",
+        "reason": "'Tafsir al-Jalalain' adalah tafsir Al-Qur'an yang ditulis oleh dua ulama terkenal, yaitu Jalaluddin al-Mahalli dan Jalaluddin as-Suyuti."
+        },
+        {
+        "id": "03",
+        "question": "Manakah dari berikut ini yang termasuk kitab hadis dalam literatur Islam?",
+        "options": [
+        "Al-Ghazali",
+        "Ihya Ulumuddin",
+        "Bulugh al-Maram",
+        "Tasawuf"
+        ],
+        "answer": "Bulugh al-Maram",
+        "reason": "'Bulugh al-Maram' adalah salah satu kitab hadis yang terkenal dalam literatur Islam. Kitab ini berisi kumpulan hadis-hadis yang berkaitan dengan hukum-hukum agama Islam."
+        },
+        {
+        "id": "04",
+        "question": "Apa yang dimaksud dengan 'Al-Qiyamah' dalam literatur Islam?",
+        "options": [
+        "Kehidupan Setelah Mati",
+        "Doa",
+        "Puasa",
+        "Haji"
+        ],
+        "answer": "Kehidupan Setelah Mati",
+        "reason": "'Al-Qiyamah' adalah istilah dalam literatur Islam yang mengacu pada kehidupan setelah mati atau hari kiamat. Ini adalah salah satu keyakinan fundamental dalam agama Islam."
+        },
+        {
+        "id": "05",
+        "question": "Siapakah penulis kitab 'Al-Adab al-Mufrad' yang merupakan koleksi hadis mengenai adab dan akhlak?",
+        "options": [
+        "Imam Malik",
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Abu Dawud"
+        ],
+        "answer": "Imam Bukhari",
+        "reason": "'Al-Adab al-Mufrad' adalah sebuah kitab yang ditulis oleh Imam Bukhari. Kitab ini berisi koleksi hadis yang berkaitan dengan adab dan akhlak dalam kehidupan sehari-hari."
+        },
+        {
+            "id": "06",
+            "question": "Apakah karya sastra terkenal dalam literatur Islam yang ditulis oleh Jalaluddin Rumi?",
+            "options": [
+            "Shahnameh",
+            "Diwan-e-Hafez",
+            "Mathnawi",
+            "Rubaiyat"
+            ],
+            "answer": "Mathnawi",
+            "reason": "Mathnawi adalah karya sastra terkenal yang ditulis oleh Jalaluddin Rumi, seorang penyair dan sufi terkenal dalam tradisi Islam. Mathnawi adalah kumpulan cerita dan puisi mistik yang mengajarkan nilai-nilai spiritual."
+            },
+            {
+            "id": "07",
+            "question": "Siapakah penulis kitab 'Fathul Majid', yang merupakan salah satu kitab terkenal dalam literatur Islam?",
+            "options": [
+            "Imam Nawawi",
+            "Ibn Taymiyyah",
+            "Imam Ghazali",
+            "Syeikh Muhammad bin Abdul Wahab"
+            ],
+            "answer": "Syeikh Muhammad bin Abdul Wahab",
+            "reason": "'Fathul Majid' adalah kitab terkenal dalam literatur Islam yang ditulis oleh Syeikh Muhammad bin Abdul Wahab. Kitab ini membahas topik-topik seperti aqidah, fiqh, dan akhlak dalam agama Islam."
+            },
+            {
+            "id": "08",
+            "question": "Manakah dari berikut ini yang termasuk salah satu tokoh utama dalam sejarah Islam?",
+            "options": [
+            "Abu Bakar",
+            "Umar bin Khattab",
+            "Ali bin Abi Thalib",
+            "Semua jawaban benar"
+            ],
+            "answer": "Semua jawaban benar",
+            "reason": "Abu Bakar, Umar bin Khattab, dan Ali bin Abi Thalib semuanya merupakan tokoh utama dalam sejarah Islam. Mereka adalah khalifah pertama, kedua, dan keempat dalam Khulafaur Rasyidin."
+            },
+            {
+            "id": "09",
+            "question": "Apa yang dimaksud dengan 'Ihsan' dalam literatur Islam?",
+            "options": [
+            "Iman",
+            "Islam",
+            "Ibadah",
+            "Kesempurnaan dalam beribadah"
+            ],
+            "answer": "Kesempurnaan dalam beribadah",
+            "reason": "'Ihsan' adalah istilah dalam literatur Islam yang mengacu pada kesempurnaan dalam beribadah. Ihsan melibatkan tindakan ibadah yang dilakukan dengan kualitas dan kesadaran penuh, dengan tujuan mendekatkan diri kepada Allah secara maksimal."
+            },
+            {
+            "id": "10",
+            "question": "Siapakah penulis kitab 'Al-Muwatta' yang merupakan salah satu kitab hadis terkenal dalam literatur Islam?",
+            "options": [
+            "Imam Malik",
+            "Imam Bukhari",
+            "Imam Muslim",
+            "Imam Abu Dawud"
+            ],
+            "answer": "Imam Malik",
+            "reason": "'Al-Muwatta' adalah kitab hadis terkenal dalam literatur Islam yang ditulis oleh Imam Malik. Kitab ini berisi kumpulan hadis-hadis dan juga berbagai hukum dan praktik keagamaan yang diajarkan oleh Nabi Muhammad SAW."
+            }
+            ]

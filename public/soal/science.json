@@ -1,0 +1,122 @@
+[
+    {
+        "id": "01",
+        "question" : "Apa yang menyebabkan apel berwarna merah?",
+        "options": [
+            "Klorofil",
+            "Antosianin",
+            "Karotenoid",
+            "Antrasena"
+        ],
+        "answer": "Antosianin",
+        "reason": "Antosianin adalah pigmen yang memberikan warna merah pada buah-buahan seperti apel."
+    },
+    {
+        "id": "02",
+        "question" : "Apa nama ilmu yang mempelajari bintang dan planet?",
+        "options": [
+            "Astronomi",
+            "Biologi",
+            "Kimia",
+            "Fisika"
+        ],
+        "answer": "Astronomi",
+        "reason": "Astronomi adalah ilmu yang mempelajari bintang, planet, dan objek-objek langit lainnya."
+    },
+    {
+        "id": "03",
+        "question": "Apa yang menjadi penyebab terjadinya gempa bumi?",
+        "options": [
+            "Pergerakan lempeng tektonik",
+            "Hujan lebat",
+            "Radiasi sinar matahari",
+            "Aktivitas vulkanik"
+        ],
+        "answer": "Pergerakan lempeng tektonik",
+        "reason": "Gempa bumi terjadi karena adanya pergerakan lempeng tektonik di bawah permukaan Bumi."
+    },
+    {
+        "id": "04",
+        "question" : "Apa yang menyebabkan terjadinya pelangi?",
+        "options": [
+            "Cahaya matahari yang dipantulkan oleh awan",
+            "Hujan yang mengandung pewarna alami",
+            "Perpaduan sinar matahari dengan sinar bulan",
+            "Aktivitas manusia di lapisan atmosfer"
+        ],
+        "answer": "Cahaya matahari yang dipantulkan oleh awan",
+        "reason": "Pelangi terbentuk saat cahaya matahari dipantulkan dan dibiaskan oleh tetesan air di udara, terutama oleh awan."
+    },
+    {
+        "id": "05",
+        "question" : "Apa yang menjadi penyebab timbulnya pasang dan surut air laut?",
+        "options": [
+            "Gerakan rotasi Bumi",
+            "Intensitas radiasi matahari",
+            "Gelombang laut yang datang",
+            "Pergerakan planet-planet di tata surya"
+        ],
+        "answer": "Gerakan rotasi Bumi",
+        "reason": "Pasang dan surut air laut disebabkan oleh gravitasi bulan dan matahari serta gerakan rotasi Bumi."
+    },
+    {
+        "id": "06",
+        "question": "Apa yang disebut dengan energi kinetik?",
+        "options": [
+            "Energi yang disimpan dalam bahan bakar",
+            "Energi yang disebabkan oleh perbedaan ketinggian",
+            "Energi yang disebabkan oleh gerakan suatu benda",
+            "Energi yang disebabkan oleh panas"
+        ],
+        "answer": "Energi yang disebabkan oleh gerakan suatu benda",
+        "reason": "Energi kinetik adalah energi yang dimiliki oleh suatu benda karena gerakannya. Semakin besar kecepatan benda, semakin besar pula energi kinetiknya."
+    },
+    {
+        "id": "07",
+        "question": "Apa yang menyebabkan apel jatuh ke bawah?",
+        "options": [
+            "Gravitasi",
+            "Magnetisme",
+            "Tekanan udara",
+            "Reaksi kimia"
+        ],
+        "answer": "Gravitasi",
+        "reason": "Apel jatuh ke bawah karena adanya gaya tarik gravitasi yang bekerja pada semua benda di permukaan Bumi."
+    },
+    {
+        "id": "08",
+        "question": "Apa yang menjadi penyebab terjadinya pelangi?",
+        "options": [
+            "Pembelokan cahaya oleh prisma",
+            "Pantulan cahaya oleh permukaan air",
+            "Perkembangan mikroorganisme di udara",
+            "Pemantulan cahaya oleh awan"
+        ],
+        "answer": "Pantulan cahaya oleh permukaan air",
+        "reason": "Pelangi terbentuk ketika cahaya matahari dipantulkan, dipantulkan kembali, dan dibiaskan oleh tetesan air di atmosfer."
+    },
+    {
+        "id": "09",
+        "question": "Apa yang menyebabkan terjadinya perubahan fase dari air menjadi es?",
+        "options": [
+            "Pemanasan",
+            "Pendinginan",
+            "Pengadukan",
+            "Penambahan garam"
+        ],
+        "answer": "Pendinginan",
+        "reason": "Perubahan fase dari air menjadi es terjadi ketika suhu air turun di bawah titik beku, yaitu 0 derajat Celsius."
+    },
+    {
+        "id": "10",
+        "question": "Apa yang menyebabkan terjadinya guntur dan kilat pada saat badai?",
+        "options": [
+            "Gerakan lempeng tektonik",
+            "Perbedaan suhu udara",
+            "Pergeseran magnet bumi",
+            "Interaksi partikel bermuatan di awan"
+        ],
+        "answer": "Interaksi partikel bermuatan di awan",
+        "reason": "Guntur dan kilat terjadi karena adanya muatan listrik yang terbentuk dalam awan saat proses pertukaran elektron antara partikel bermuatan di dalam awan atau antara awan dan permukaan Bumi."
+    }
+]

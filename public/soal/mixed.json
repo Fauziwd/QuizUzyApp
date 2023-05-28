@@ -1,0 +1,122 @@
+[
+    {
+        "id": "01",
+        "question" : "Sholat Dzuhur berapa rakaat?",
+        "options": [
+            "Tiga",
+            "Empat",
+            "Dua",
+            "Terserah"
+        ],
+        "answer": "Empat",
+        "reason": "Disyariatkannya sholat Dzuhur 4 rakaat."
+    },
+    {
+        "id": "02",
+        "question" : "Apa hukumnya orang yang tidak sengaja makan nasi satu piring sampai nambah 3 kali di bulan Ramadhan?",
+        "options": [
+            "Puasa tetap sah!",
+            "Puasa tidak sah, karna dia pura-pura lupa",
+            "Puasa tetap sah, tetapi pahala berkurang",
+            "Tidak dihitung puasa, karena syarat berpuasa hanya untuk orang yang berakal saja"
+        ],
+        "answer": "Tidak dihitung puasa, karena syarat berpuasa hanya untuk orang yang berakal saja",
+        "reason": "Tidak dihitung puasa, karena syarat berpuasa hanya untuk orang yang berakal saja."
+    },
+    {
+        "id": "03",
+        "question": "Kalau ada angsa lima, dikali dua. Berapa total semua angsa?",
+        "options": [
+            "3 ekor",
+            "5 ekor",
+            "2 ekor",
+            "10 ekor"
+        ],
+        "answer": "5 ekor",
+        "reason": "tetap 5, karena yang di sungai ada 2, yang di darat ada 3."
+    },
+    {
+        "id": "04",
+        "question" : "Apa hukum menyentuh istri setelah berwudhu!",
+        "options": [
+            "Membatalkan",
+            "Tidak membatalkan",
+            "Haram",
+            "Terserah"
+        ],
+        "answer": "Membatalkan",
+        "reason": "Karena istri bukan mahrom.."
+    },
+    {
+        "id": "05",
+        "question" : "Yang termasuk bahasa pemrograman",
+        "options": [
+            "Laravel",
+            "Vue.js",
+            "Kotlin",
+            "Django"
+        ],
+        "answer": "Kotlin",
+        "reason": "Selain Kotlin, mereka adalah Framework dari suatu bahasa."
+    },
+    {
+        "id": "06",
+        "question": "Jika 3 apel dan 2 pisang memiliki total harga Rp. 8.500, sedangkan 2 apel dan 4 pisang memiliki total harga Rp. 7.600, berapa harga 1 apel dan 1 pisang?",
+        "options": [
+            "Apel: Rp. 1.200, Pisang: Rp. 1.700",
+            "Apel: Rp. 1.500, Pisang: Rp. 1.200",
+            "Apel: Rp. 1.200, Pisang: Rp. 1.500",
+            "Apel: Rp. 1.300, Pisang: Rp. 1.200"
+        ],
+        "answer": "Apel: Rp. 1.200, Pisang: Rp. 1.700",
+        "reason": "Untuk menyelesaikan masalah ini, kita dapat menggunakan sistem persamaan linear. Jika harga 1 apel dan 1 pisang adalah a dan b, maka kita dapat menyelesaikan persamaan sebagai berikut: 3a + 2b = 8.500 dan 2a + 4b = 7.600. Setelah diselesaikan, kita akan mendapatkan a = Rp. 1.200 dan b = Rp. 1.700."
+    },
+    {
+        "id": "07",
+        "question" : "1+1x0 berapa?",
+        "options": [
+            "Dua",
+            "Nol",
+            "Sepuluh",
+            "Satu"
+        ],
+        "answer": "Satu",
+        "reason": "Karena aturan prioritas operasi matematika, perkalian (x) harus dilakukan terlebih dahulu sebelum penjumlahan (+)"
+    },
+    {
+        "id": "08",
+        "question" : "Apa hukum orang yang berinfaq dengan harta curian?",
+        "options": [
+            "Kafir",
+            "Murtad",
+            "Haram",
+            "Tidak sah"
+        ],
+        "answer": "Tidak sah",
+        "reason": "selain itu, pelakunya juga mendapatkan dosa karena mengambil harta yang bukan miliknya"
+    },
+    {
+        "id": "09",
+        "question": "Jika 1 kucing dan 2 burung memiliki total 10 kaki, berapa jumlah kaki dari 2 kucing dan 1 burung?",
+        "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+        ],
+        "answer": "16",
+        "reason": "1 kucing memiliki 4 kaki dan 1 burung memiliki 2 kaki. 1 kucing dan 2 burung bersama-sama memiliki total 10 kaki, jadi 4x + 2y = 10. Jumlah kaki dari 2 kucing dan 1 burung adalah 2(4 + 2) = 12. Namun, 2 kucing dan 1 burung memiliki total kaki 8 + 8 + 2 = 18. Jadi, jawaban yang benar adalah 16."
+    },
+    {
+        "id": "01",
+        "question" : "Hukum Sholat Berjamaah?",
+        "options": [
+            "Fardhu Ain",
+            "Fardhu Kifayah",
+            "Sunnah",
+            "Mubah"
+        ],
+        "answer": "Fardhu Ain",
+        "reason": "Sebagaimana Surat An-Nisa ayat 102."
+    }
+]
