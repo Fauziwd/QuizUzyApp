@@ -8,11 +8,12 @@ const Result = ({ showResult, quizs, marks, startOver }) => {
   };
 
   return (
-    <section
-      ref={quizContainerRef}
-      className='text-white text-center'
-      style={{ display: `${showResult ? 'block' : 'none'}`, backgroundColor: '#E8AA42' }}
-    >
+<section
+  ref={quizContainerRef}
+  className='text-white text-center'
+  style={{ display: `${showResult ? 'block' : 'none'}`, backgroundColor: '#E8AA42' }}>
+  <img src="/images/party.gif" alt="Gambar" />
+
       <div className="container">
         <div className="row vh-100 align-items-center justify-content-center">
           <div className="col-lg-6">

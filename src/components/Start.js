@@ -2,6 +2,7 @@ import React, { useState, useRef } from 'react';
 import { Tilt } from 'react-tilt';
 import { Dropdown, DropdownButton } from 'react-bootstrap';
 import Swal from 'sweetalert2';
+import '../App.css';
 import anime from "animejs";
 
 const Start = ({ startQuiz, showStart }) => {
@@ -59,10 +60,9 @@ const Start = ({ startQuiz, showStart }) => {
             <h1 className='fw-bold mb-4'>Quiz Pengetahuan Umum</h1>
             <DropdownButton
               variant="light"
-              title={selectedCategory || "Select a category"}
+              title={selectedCategory || 'Select a category'}
               onSelect={handleCategorySelect}
-              className="mb-3"
-            >
+              className="mb-3 custom-dropdown">
               <Dropdown.Item eventKey="mixed">Mix</Dropdown.Item>
               <Dropdown.Item eventKey="science">Science</Dropdown.Item>
               <Dropdown.Item eventKey="literature">Islam Literature</Dropdown.Item>
@@ -76,7 +76,7 @@ const Start = ({ startQuiz, showStart }) => {
         <div className="modal fade show" tabIndex="-1" role="dialog" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: '#BFCCB5' }}>
           <Tilt className="Tilt" options={{ max: 25, perspective: 1000, glare: true, maxGlare: 0.8, glarePrerender: true, transition: true, axis: null, speed: 1000 }}>
             <div className="modal-dialog modal-dialog-centered" role="document">
-              <div className="modal-content" style={{ backgroundColor: '#3C486B', fontFamily: 'Montserrat, sans-serif', color: '#F6BA6F', boxShadow: '0px 0px 20px #2A2F4F' }}>
+              <div className="modal-content" style={{ backgroundColor: '#3C486B', fontFamily: 'Montserrat, sans-serif', color: '#F6BA6F', boxShadow: '0px 30px 60px 2px #394867' }}>
                 <div className="modal-header">
                   <h5 className="modal-title text-center w-100" style={{ fontSize: '2rem' }}>Selamat Datang!</h5>
                 </div>
@@ -92,7 +92,24 @@ const Start = ({ startQuiz, showStart }) => {
                   </div>
                 </Tilt>
                 <div className="modal-footer justify-content-center">
-                  <button type="button" className="btn btn-secondary" data-dismiss="modal" onClick={() => setShowModal(false)} style={{ backgroundColor: '#FFFFFF',fontFamily: 'Montserrat, sans-serif', color: '#333333', fontWeight: 'bold', letterSpacing: '1px', boxShadow: '0px 0px 20px #393646' }}>Close</button>
+                <button
+  type="button"
+  className="btn btn-secondary"
+  data-dismiss="modal"
+  onClick={() => setShowModal(false)}
+  style={{
+    backgroundColor: '#537188',
+    fontFamily: 'Montserrat, sans-serif',
+    color: '#fff',
+    fontWeight: 'bold',
+    letterSpacing: '1px',
+    boxShadow: '0px 0px 100px #212A3E',
+    transition: 'background-color 0.7s ease',
+  }}
+  onMouseEnter={(e) => e.target.style.backgroundColor = '#213044'}
+  onMouseLeave={(e) => e.target.style.backgroundColor = '#537188'}>
+  Continue
+</button>
                 </div>
               </div>
             </div>

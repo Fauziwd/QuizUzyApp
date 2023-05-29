@@ -3,6 +3,7 @@ import Start from './components/Start';
 import Quiz from './components/Quiz';
 import Result from './components/Result';
 import { Howl } from 'howler';
+import './App.css';
 import Swal from 'sweetalert2';
 
 function App() {
@@ -82,12 +83,16 @@ function App() {
           icon: 'success',
           title: 'Anda Benar!',
           text: question.reason,
-          background: '#fff url(/images/party.gif)',
           showConfirmButton: true,
+          background: '#fff url(/images/party.gif)',
+          customClass: {
+            container: 'custom-swal-container',
+            title: 'custom-swal-title',
+            content: 'custom-swal-content',
           didOpen: () => {
             // Panggil audio
             correctSound.play();
-          },
+          }},
         }).then(() => {
           setMarks(marks + 10);
           (questionIndex + 1) !== quizs.length ? nextQuestion() : showTheResult();

@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+        /* Dropdown Opsi */
+        .custom-dropdown {
+          position: relative;
+        }
+        
+        .custom-dropdown .dropdown-menu {
+          background-color: rgba(252, 252, 252, 0.087);
+          backdrop-filter: blur(40px);
+          border: none;
+          margin-top: 10px;
+        }
+        
+        .custom-dropdown .dropdown-item {
+          color: #c2cbe8;
+        }
+        
+        .custom-dropdown .dropdown-item:hover {
+          background-color: rgba(36, 35, 35, 0.2);
+        }
+        
+        /* Konfigurasi Swal Fire */
+        
+        .custom-swal-container {
+          background: rgba(255, 255, 255, 0.5);
+          backdrop-filter: blur(50px);
+        }
+        
+        .custom-swal-title {
+          color: #4c6535;
+        }
+        
+        .custom-swal-content {
+          color: #000;
+        }
+        
