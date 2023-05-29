@@ -85,14 +85,15 @@ function App() {
           text: question.reason,
           showConfirmButton: true,
           background: '#fff url(/images/party.gif)',
+          didOpen: () => {
+            // Panggil audio
+            correctSound.play();
+          },
           customClass: {
             container: 'custom-swal-container',
             title: 'custom-swal-title',
             content: 'custom-swal-content',
-          didOpen: () => {
-            // Panggil audio
-            correctSound.play();
-          }},
+          },
         }).then(() => {
           setMarks(marks + 10);
           (questionIndex + 1) !== quizs.length ? nextQuestion() : showTheResult();
