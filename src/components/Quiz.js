@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Quiz = ({ showQuiz, question, quizs, checkAnswer, correctAnswer, selectedAnswer, questionIndex, nextQuestion, showTheResult }) => {
 
     return (

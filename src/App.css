@@ -72,3 +72,15 @@
           color: #000;
         }
         
+        .custom-swal-container2 {
+          background: rgba(160, 54, 54, 0.5);
+          backdrop-filter: blur(50px);
+        }
+        
+        .custom-swal-title2 {
+          color: #b83f3f;
+        }
+        
+        .custom-swal-content2 {
+          color: #000;
+        }

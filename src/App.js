@@ -84,7 +84,7 @@ function App() {
           title: 'Anda Benar!',
           text: question.reason,
           showConfirmButton: true,
-          background: '#fff url(/images/party.gif)',
+          background: '#D8D8D8 url(/images/party.gif)',
           didOpen: () => {
             // Panggil audio
             correctSound.play();
@@ -103,11 +103,17 @@ function App() {
         Swal.fire({
           icon: 'error',
           title: 'Anda Salah!',
+          background: '#D8D8D8',
           text: `Jawaban yang benar adalah ${question.answer}, ${question.reason}`,
           showConfirmButton: true,
           didOpen: () => {
             // Panggil audio
             incorrectSound.play();
+          },
+          customClass: {
+            container: 'custom-swal-container2',
+            title: 'custom-swal-title2',
+            content: 'custom-swal-content2',
           },
         }).then(() => {
           (questionIndex + 1) !== quizs.length ? nextQuestion() : showTheResult();
